@@ -52,7 +52,7 @@ params:
   image: images/global/hero_00.webp
   logo: images/global/dn_logo_128x128.png
   moto: "A unique fantasy hockey game with an economics twist"
-  description: "Dobbernomics App is a fantasy hockey game that combines player scores on-ice and economic principles to analyze player performance."
+  description: "Dobbernomics is a FREE fantasy hockey game that combines actual real world on-ice statistics with economic principles to build a winning team!"
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -60,22 +60,22 @@ params:
     heading: "Player Prices Driven by Demand"
     image: "images/global/hero_01.webp"
     content:
-      - text: "Experience a dynamic market where player prices fluctuate based on demand."
-      - text: "Buy low, sell high, and build a winning team."
+      - text: "Experience a dynamic market where player prices fluctuate based on real-world demand. If 100 real-world gamers own Player X today, and 120 gamers own Player X tomorrow, his value goes up - taking your team value along with it!"
+      - text: "Buy low, sell high, and increase the value of your team so you have more cap space to acquire even better players."
       - text: "Do you have what it takes to be the next Dobbernomics champion?"
   p2:
     heading: "Limited but Accumulative Trades"
     image: "images/global/hero_02.webp"
     content:
       - text: "Strategize your trades with our unique accumulative trading system."
-      - text: "Trade up to 5 players in a week, or save your trades for a big move."
+      - text: "Trade up to 6 players in a week, or save your trades for a big week where you can use them all at once."
       - text: "Earn extra trades by logging in daily!"
   p3:
     heading: "In-app Statistics and Analysis"
     content:
       - text: "Make informed decisions with comprehensive in-app statistics."
       - text: "Analyze player performance with advanced metrics and graphs."
-      - text: "Stay ahead of the competition with goalie playing indicators."
+      - text: "Stay ahead of the competition with advanced metrics and graphs."
     links:
       - text: Check out GoaliePost for Dedicated Goalie Tracking
         url: "https://goaliepost.com"
