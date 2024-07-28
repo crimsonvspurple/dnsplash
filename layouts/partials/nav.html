@@ -14,6 +14,8 @@
                      class="mt-1 ml-3 text-xl font-black tracking-tight text-gray-100 uppercase transition-colors group-hover:text-gray-400/60">
                     {{ .Site.Title }}</div>
             </a>
+            {{ partial "app-cta.html" (dict "context" . "appName" "dn") }}
+
             <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open" role="navigation" aria-expanded="false" aria-label="Main" aria-controls="menuItems">
                 <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
                     <path x-show="!open" fill-rule="evenodd"
@@ -125,6 +127,7 @@
             </a>
             {{ end }}
             {{ end }}
+
             {{ if not .Site.Params.Disable_theme_toggle }}
             <button id="theme-toggle" type="button"
                     class="p-2 text-sm text-gray-500 rounded-lg md: dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 md:ml-2 max-w-10 xs:hidden">

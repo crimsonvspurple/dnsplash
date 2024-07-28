@@ -1,0 +1,44 @@
+<!-- declare variables for app store and play store app ids and use them in the html -->
+{{ $context := .context }}
+{{ $appName := .appName }}
+{{ $apps := $context.Site.Params.apps }}
+{{ $appData := index $apps $appName }}
+{{ $appStoreId := index $appData "appstoreid" }}
+{{ $playStoreId := index $appData "playstoreid" }}
+
+<div class="store-badges">
+    <a class="apple-badge"
+       href="https://apps.apple.com/app/apple-store/id{{ $appStoreId }}?pt=125113043&amp;ct=dnlanding&amp;mt=8"
+       style="display: inline-block; overflow: hidden; border-radius: 13px;"><img
+            src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1691971200"
+            alt="Download on the App Store" style="border-radius: 13px;" title="Download on the App Store"></a>
+    <a class="android-badge"
+       href="https://play.google.com/store/apps/details?id={{ $playStoreId }}&amp;utm_source=dnlanding&amp;utm_campaign=dn-promotion&amp;utm_medium=social&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
+       title="Get it on Google Play"></a>
+</div>
+
+<style>
+    .store-badges {
+        display: flex;
+        align-items: center;
+        column-gap: 15px;
+    }
+
+    .apple-badge {
+        width: 150px !important;
+        height: 50px !important;
+        display: block !important;
+    }
+    .apple-badge > img {
+        width: 100%;
+    }
+
+    .android-badge {
+        width: 150px !important;
+        height: 50px !important;
+        display: block !important;
+        background-image: url('https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png');
+        background-position: center 47%;
+        background-size: 170px;
+    }
+</style>

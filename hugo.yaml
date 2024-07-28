@@ -1,4 +1,4 @@
-baseURL: ''
+# baseURL: ''
 title: Dobbernomics
 languageCode: en-us
 DefaultContentLanguage: en
@@ -55,6 +55,13 @@ params:
   description: "Dobbernomics is a FREE fantasy hockey game that combines actual real world on-ice statistics with economic principles to build a winning team!"
   disable_theme_toggle: false
   disable_stay_uptodate: false
+  apps:
+    gp:
+      appStoreId: "1632801668"
+      playStoreId: "works.xen.ds.gp"
+    dn:
+      appStoreId: "6451386086"
+      playStoreId: "works.xen.ds.dn"
 
   p1:
     heading: "Player Prices Driven by Demand"

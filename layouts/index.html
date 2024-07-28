@@ -13,6 +13,8 @@
                     <p class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
                         {{ .Site.Params.Description}}
                     </p>
+                    {{ partial "app-cta.html" (dict "context" . "appName" "dn") }}
+
                 </div>
                 <div class="col-span-6">
                     {{ $hero := resources.Get .Site.Params.image }}
@@ -75,6 +77,8 @@
                         {{ end }}
                     </div>
                 </div>
+                {{ partial "app-cta.html" (dict "context" . "appName" "dn") }}
+
             </div>
         </div>
     </div>
@@ -95,6 +99,7 @@
                         {{ end }}
                     </div>
                 </div>
+                {{ partial "app-cta.html" (dict "context" . "appName" "dn") }}
             </div>
         </div>
         <div class="md:py-4 sm:relative sm:mt-4 lg:inset-y-0 lg:right-0">
@@ -162,6 +167,8 @@
                     </a>
                 </div>
                 {{ end }}
+                {{ partial "app-cta.html" (dict "context" . "appName" "gp") }}
+
             </div>
         </div>
     </div>
@@ -248,6 +255,8 @@
             </div>
         </div>
     </div>
+
+    {{ partial "app-cta.html" (dict "context" . "appName" "dn") }}
 
     {{ if not .Site.Params.Disable_stay_uptodate}}
     <!-- CTA section -->
