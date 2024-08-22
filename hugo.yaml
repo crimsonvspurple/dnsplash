@@ -103,11 +103,11 @@ params:
   p4:
     heading: "From the blog"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Dobbernomics Updates!"
   p5:
     heading: "Stay Up to Date"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Sign up for emails regarding NHL fantasy and Dobbernomics. We promise not to spam you!"
     action: "#"
     label: "Email address"
     placeholder: "Enter your email"

@@ -2,18 +2,28 @@
 <main>
     <div class="bg-gray-200 dark:bg-gray-900">
         <div class="max-w-screen-xl px-4 py-8 mx-auto">
-            <div class="grid items-center gap-8 mb-8 sm:mb-0 lg:gap-12 lg:grid-cols-12">
-                <div class="col-span-6 px-4 text-center sm:mb-6 lg:text-left lg:mb-0">
+            <div class="block lg:grid items-center gap-8 lg:mb-8 sm:mb-0 lg:gap-12 lg:grid-cols-12">
+                <div class="col-span-6 px-4 text-center mb-6 md:mb-0 lg:text-left lg:mb-0">
                     <h1 class="mb-2 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl xl:text-6xl dark:text-white">
                         {{ .Site.Title }}
                     </h1>
-                    <h2 class="pb-2 text-3xl font-light text-gray-800 dark:text-gray-300 md:text-4xl">
+                    <h2 class="pb-2 text-3xl font-light text-gray-800 dark:text-gray-300 md:text-4xl text-balance">
                         {{ .Site.Params.Moto }}
                     </h2>
-                    <p class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50">
+                    <p class="max-w-xl mx-auto mb-6 font-normal text-gray-900 lg:mx-0 xl:mb-2 md:text-lg xl:text-xl dark:text-gray-50 text-pretty">
                         {{ .Site.Params.Description}}
                     </p>
-                    {{ partial "app-cta.html" (dict "context" . "appName" "dn") }}
+                    <div class="block md:hidden">
+                        {{ partial "app-cta.html" (dict "context" . "appName" "dn" "showWeb" false) }}
+                    </div>
+                    <div class="pt-4 mb-4">
+                        While we highly recommend using the app (iOS, Mac, Androids), you can also play it in your browser.
+                        <a href="//app.dobbernomics.com" title="Play in browser" class="block" target="_blank">
+                            <button class="inline-flex items-center px-4 py-2 mt-4 text-base font-medium text-white bg-primary-500 border border-transparent rounded-md shadow-sm hover:bg-primary-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500">
+                                Open the Game in Browser
+                            </button>
+                        </a>
+                    </div>
 
                 </div>
                 <div class="col-span-6">
@@ -35,7 +45,7 @@
     <!-- More main page content here... -->
 
     <!-- 2nd -->
-    <div class="lg:mx-auto lg:grid lg:max-w-7xl lg:grid-cols-2 lg:items-start lg:gap-24 lg:px-8">
+    <div class="py-8 lg:mx-auto lg:grid lg:max-w-7xl lg:grid-cols-2 lg:items-start lg:gap-24 lg:px-8">
         <div class="relative sm:py-8 lg:py-0">
             <div aria-hidden="true" class="hidden sm:block lg:absolute lg:inset-y-0 lg:right-0 lg:w-screen">
                 <div class="absolute inset-y-0 w-full bg-gray-50 dark:bg-gray-900/10 right-1/2 rounded-r-3xl lg:right-72"></div>
@@ -77,14 +87,12 @@
                         {{ end }}
                     </div>
                 </div>
-                {{ partial "app-cta.html" (dict "context" . "appName" "dn") }}
-
             </div>
         </div>
     </div>
 
     <!-- 3rd -->
-    <div class="max-w-md px-4 m-auto sm:max-w-3xl sm:px-6 lg:grid lg:max-w-7xl lg:grid-cols-2 lg:gap-12 lg:px-8">
+    <div class="max-w-md md:px-4 py-8 m-auto sm:max-w-3xl lg:grid lg:max-w-7xl lg:grid-cols-2 lg:gap-12 lg:px-8">
         <div class="relative max-w-md px-4 m-auto sm:max-w-3xl sm:px-6 lg:px-0">
             <div class="md:pt-12 sm:pt-6 lg:pt-6">
                 <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-4xl md:mt-16">
@@ -99,7 +107,6 @@
                         {{ end }}
                     </div>
                 </div>
-                {{ partial "app-cta.html" (dict "context" . "appName" "dn") }}
             </div>
         </div>
         <div class="md:py-4 sm:relative sm:mt-4 lg:inset-y-0 lg:right-0">
@@ -117,7 +124,7 @@
                     <rect width="404" height="392" fill="url(#837c3e70-6c3a-44e6-8854-cc48c737b659)"></rect>
                 </svg>
             </div>
-            <div class="relative pl-4 -mr-40 sm:mx-auto sm:max-w-3xl sm:px-0 lg:h-full lg:max-w-none lg:pl-12">
+            <div class="relative px-4 py-6 pl-4 lg:-mr-40 sm:mx-auto sm:max-w-3xl sm:px-4 lg:h-full lg:max-w-none lg:pl-12">
                 <div class="overflow-hidden shadow-xl rounded-2xl">
 
                     {{ $p2image := resources.Get .Site.Params.P2.Image }}
@@ -133,10 +140,10 @@
     </div>
 
 
-    <!-- Sponsors section -->
+    <!-- last section -->
     <div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
         <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
-            <div class="mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
+            <div class="hidden mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
                 {{ range .Site.Params.P3.Logos }}
                 <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
                     {{ if .image }}
@@ -167,14 +174,12 @@
                     </a>
                 </div>
                 {{ end }}
-                {{ partial "app-cta.html" (dict "context" . "appName" "gp") }}
-
             </div>
         </div>
     </div>
 
     <!-- Blog section -->
-    <div class="relative px-1 pt-8 pb-4 bg-transparent lg:px-8 lg:pt-12 lg:mb-4 md:mt-12">
+    <div class="hidden relative px-1 pt-8 pb-4 bg-transparent lg:px-8 lg:pt-12 lg:mb-4 md:mt-12">
         <div class="absolute inset-0">
             <div class="bg-gray-200 dark:bg-gray-900/50 h-1/3 sm:h-2/3"></div>
         </div>
@@ -256,7 +261,9 @@
         </div>
     </div>
 
-    {{ partial "app-cta.html" (dict "context" . "appName" "dn") }}
+    <div class="block md:hidden">
+        {{ partial "app-cta.html" (dict "context" . "appName" "dn" "showWeb" true) }}
+    </div>
 
     {{ if not .Site.Params.Disable_stay_uptodate}}
     <!-- CTA section -->

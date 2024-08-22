@@ -9,9 +9,9 @@
 <div class="store-badges">
     <a class="apple-badge"
        href="https://apps.apple.com/app/apple-store/id{{ $appStoreId }}?pt=125113043&amp;ct=dnlanding&amp;mt=8"
-       style="display: inline-block; overflow: hidden; border-radius: 13px;"><img
+       style="display: inline-block; overflow: hidden;"><img
             src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1691971200"
-            alt="Download on the App Store" style="border-radius: 13px;" title="Download on the App Store"></a>
+            alt="Download on the App Store" style="" title="Download on the App Store"></a>
     <a class="android-badge"
        href="https://play.google.com/store/apps/details?id={{ $playStoreId }}&amp;utm_source=dnlanding&amp;utm_campaign=dn-promotion&amp;utm_medium=social&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
        title="Get it on Google Play"></a>
@@ -21,7 +21,11 @@
     .store-badges {
         display: flex;
         align-items: center;
+        justify-content: center;
         column-gap: 15px;
+        row-gap: 15px;
+        margin: auto 20px;
+        flex-wrap: wrap;
     }
 
     .apple-badge {
@@ -34,11 +38,11 @@
     }
 
     .android-badge {
-        width: 150px !important;
+        width: 170px !important;
         height: 50px !important;
         display: block !important;
         background-image: url('https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png');
-        background-position: center 47%;
-        background-size: 170px;
+        background-position: center center;
+        background-size: 190px;
     }
 </style>
