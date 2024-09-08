@@ -108,8 +108,9 @@ params:
     heading: "Stay Up to Date"
     content:
       - text: "Sign up for emails regarding NHL fantasy and Dobbernomics. We promise not to spam you!"
-    action: "#"
+    action: "#notifyMe"
     label: "Email address"
+    target : "_blank"
     placeholder: "Enter your email"
     button: "Notify me"
 

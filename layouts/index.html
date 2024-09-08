@@ -290,7 +290,7 @@
                         </p>
                         {{ end }}
                     </div>
-                    <form action="{{ .Site.Params.P5.Action }}" class="mt-12 sm:mx-auto sm:flex sm:max-w-lg">
+                    <form id="notifyMe" action="{{ .Site.Params.P5.Action }}" class="mt-12 sm:mx-auto sm:flex sm:max-w-lg">
                         <div class="flex-1 min-w-0">
                             <label for="cta-email" class="sr-only">{{ .Site.Params.P5.Label }}</label>
                             <input id="cta-email" type="email"
@@ -298,7 +298,7 @@
                                    placeholder="{{ .Site.Params.P5.Placeholder }}">
                         </div>
                         <div class="mt-4 sm:mt-0 sm:ml-3">
-                            <button type="submit"
+                            <button id="notifyButton" type="submit" onclick="submitForm()"
                                     class="block w-full px-5 py-3 text-base font-medium text-white bg-gray-900 border border-transparent rounded-md shadow hover:bg-black focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-primary-500 sm:px-10">
                                 {{ .Site.Params.P5.Button }}
                             </button>
@@ -306,6 +306,11 @@
                     </form>
                 </div>
             </div>
+        </div>
+    </div>
+    <div id="snackbar" class="hidden bg-indigo-900 text-center py-4 lg:px-4 rounded-lg">
+        <div class="p-4 bg-indigo-800 items-center text-indigo-100 leading-none lg:rounded-full flex lg:inline-flex" role="alert">
+            <span id="snackbar-message" class="font-semibold text-center flex-auto"></span>
         </div>
     </div>
     {{ end }}

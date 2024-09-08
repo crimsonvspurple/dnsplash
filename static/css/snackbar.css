@@ -1,0 +1,40 @@
+/* The Snackbar - hidden by default */
+#snackbar {
+    visibility: hidden; /* Hidden by default. Visible on click */
+    min-width: 250px; /* Set a default width */
+    margin-left: -125px; /* Center the snackbar */
+    position: fixed; /* Sit on top of the screen */
+    z-index: 1; /* Make sure it does not overlap */
+    left: 50%; /* Center horizontally */
+    bottom: 30px; /* 30px from the bottom */
+    font-size: 17px; /* Font size */
+    padding: 16px; /* Padding */
+}
+
+/* Show the snackbar when clicking on the button */
+#snackbar.show {
+    visibility: visible; /* Show the snackbar */
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s; /* Animation */
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+/* Animations */
+@-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;} 
+    to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {opacity: 1;} 
+    to {opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {opacity: 1;} 
+    to {opacity: 0;}
+}

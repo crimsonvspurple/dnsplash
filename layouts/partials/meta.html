@@ -14,3 +14,7 @@
 <meta property="og:image" content="{{ if .Params.featured_image }}{{ .Params.featured_image | relURL }}{{ else }}{{ .Site.Params.og_image | relURL }}{{ end }}" />
 <meta property="og:image:secure_url" content="{{ if .Params.featured_image }}{{ .Params.featured_image | absURL }}{{ else }}{{ .Site.Params.og_image | absURL }}{{ end }}" />
 <meta property="og:type" content="{{if .IsHome}}website{{else}}article{{end}}" />
+    <!-- iOS app banner -->
+<meta name="apple-itunes-app" content="app-id=6451386086">
+    <!-- Android app banner-->
+<meta name="google-play-app" content="app-id=works.xen.ds.dn">
