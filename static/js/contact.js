@@ -1,4 +1,4 @@
-function submitContactForm() {
+function submitContactForm(event) {
     event.preventDefault();
     const form = document.getElementById('contactForm');
     const emailInput = document.getElementById('contactEmail').value;

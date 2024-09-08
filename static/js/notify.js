@@ -1,4 +1,4 @@
-function submitForm() {
+function submitForm(event) {
     event.preventDefault();
     const form = document.getElementById('notifyMe');
     const emailInput = document.getElementById('cta-email').value;
