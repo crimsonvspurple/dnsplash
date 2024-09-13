@@ -4,8 +4,14 @@ date: 2024-08-03T20:56:36+01:00
 draft: false
 language: en
 description: About Dobbernomics
-featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
+<div class="image-container">
+    <img src="/images/splash-1.webp" alt="Splash Image 1" class="responsive-image">
+    <img src="/images/splash-2.webp" alt="Splash Image 2" class="responsive-image">
+    <img src="/images/splash-3.webp" alt="Splash Image 3" class="responsive-image">
+    <img src="/images/splash-4.webp" alt="Splash Image 4" class="responsive-image">
+    <img src="/images/splash-5.webp" alt="Splash Image 5" class="responsive-image">
+</div>
 
 Inspired by the early-2000s game 'Small World' (later RotoHog), Dobbernomics was brought into creation in 2018 as a passion project by Darryl Dobbs ("Dobber"). It is a free game that takes real world buying and selling of players to determine the player's in-game value. Compete against the world, as well as against competitors in a league you created (optional) to build your roster value to the highest it can reach, and at the same time win by total fantasy points!
 
