@@ -1,0 +1,37 @@
+name: Update ads.txt
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC; change to '0 */6 * * *' for every 6 hours, etc.
+  workflow_dispatch:  # Allows manual triggering from the GitHub UI
+
+jobs:
+  update-ads:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch latest ads.txt content
+        run: curl -s -f -o static/ads.txt https://header-bidding.snack-media.com/adstxt/4761 || echo "Error: Failed to fetch ads.txt" >&2 && exit 1
+        # -s: Silent mode, -f: Fail on HTTP errors, exit 1 on failure to stop workflow
+
+      - name: Verify ads.txt content
+        run: |
+          if [ ! -s static/ads.txt ]; then
+            echo "Error: ads.txt is empty or was not created" >&2
+            exit 1
+          fi
+        # Ensures the file exists and is non-empty
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add static/ads.txt
+          git diff --staged --quiet || git commit -m "Automated update of static/ads.txt"
+          git push || echo "No changes to commit or push failed"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Default token for repo write access
+        # Skips commit if no changes (git diff --quiet), handles push errors gracefully
+        
