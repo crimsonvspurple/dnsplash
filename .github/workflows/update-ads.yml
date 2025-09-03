@@ -13,9 +13,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch latest ads.txt content
-        run: curl -s -f -o static/ads.txt https://header-bidding.snack-media.com/adstxt/4761 || echo "Error: Failed to fetch ads.txt" >&2 && exit 1
+        run: |
+          curl -s -f -o static/ads.txt https://header-bidding.snack-media.com/adstxt/4761 || { echo "Error: Failed to fetch ads.txt" >&2; exit 1; }
         # -s: Silent mode, -f: Fail on HTTP errors, exit 1 on failure to stop workflow
-
+        
       - name: Verify ads.txt content
         run: |
           if [ ! -s static/ads.txt ]; then
@@ -34,4 +35,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Default token for repo write access
         # Skips commit if no changes (git diff --quiet), handles push errors gracefully
-        
+
