@@ -1,5 +1,6 @@
 # Site: dobbernomics.com
-# Updated on September 15th at 1:18am
+# Updated on September 16th at 1:12am
+# ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
 MANAGERDOMAIN=snack-media.com
@@ -1231,6 +1232,14 @@ advertising.com,82642,RESELLER
 connectad.io,525,RESELLER,85ac85a30c93b3e5
 krushmedia.com,AJxF6R352a9M6CaTvK,RESELLER
 conversantmedia.com,41784,RESELLER,03113cd04947736d
+adform.com,2691,RESELLER
+flashb.id,0c9f34ea-b90b-5ea5-bdd0-04e39efa35c8,RESELLER
+playdigo.com,1970,RESELLER,92011346d63d3c30
+smartyads.com,277,RESELLER,fd2bde0ff2e62c5d
+iqzone.com,IQ130,RESELLER
+imds.tv,82642,RESELLER,ae6c32151e71f19d
+advertising.com,82642,RESELLER
+connectad.io,525,RESELLER,85ac85a30c93b3e5
 inventorypartnerdomain=tappx.com
 
 
