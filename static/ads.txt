@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on September 23rd at 1:13am
+# Updated on September 25th at 1:14am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
