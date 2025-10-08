@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on October 7th at 1:13am
+# Updated on October 8th at 1:13am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1292,7 +1292,7 @@ appnexus.com, 7582, DIRECT, f5ab79cb980f11d1
 sonobi.com, d893965a2d, DIRECT, d1a215d9eb5aee9e
 sharethrough.com, a289162e, DIRECT, d53b998a7bd4ecd2
 rubiconproject.com, 11106, DIRECT, 0bfd66d529a55807
-pubmatic.com, 162199, DIRECT, 5d62403b186f2ace
+pubmatic.com, 162199, RESELLER, 5d62403b186f2ace
 sovrn.com, 51991, DIRECT, fafdf38b16bf6b2b
 lijit.com, 51991, DIRECT, fafdf38b16bf6b2b
 nativo.com, 5711, RESELLER, 59521ca7cc5e9fee
