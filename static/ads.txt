@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on October 13th at 1:21am
+# Updated on October 15th at 1:16am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -872,6 +872,8 @@ smartadserver.com, 4288, RESELLER
 zetaglobal.com, 108, RESELLER
 improvedigital.com, 2106, RESELLER
 loopme.com, 11576, RESELLER
+tagoras.io, c0946b4ab2bfb962c2a6a4efd4bd4910, DIRECT
+appnexus.com, 15623, RESELLER, f5ab79cb980f11d1
 
 
 # Sublime
