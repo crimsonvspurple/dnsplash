@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on October 28th at 1:15am
+# Updated on October 29th at 1:21am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -941,8 +941,7 @@ sonobi.com, b43e9530e7, RESELLER, d1a215d9eb5aee9e
 
 
 # FoxPush
-foxpush.com, 11240496, DIRECT
-google.com, pub-8113799588685394, RESELLER, f08c47fec0942fa0
+
 
 
 # Minute Media
