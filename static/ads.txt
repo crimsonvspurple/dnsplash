@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on October 31st at 1:18am
+# Updated on November 1st at 1:22am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1625,6 +1625,7 @@ sharethrough.com, a6a34444, RESELLER, d53b998a7bd4ecd2
 yahoo.com, 49648, RESELLER
 amxrtb.com, 105199546, DIRECT
 appnexus.com, 11786, RESELLER, f5ab79cb980f11d1
+amxrtb.com, 1330, DIRECT
 
 
 # ADYOULIKE
