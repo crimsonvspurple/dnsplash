@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on November 1st at 1:22am
+# Updated on November 2nd at 1:23am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1246,6 +1246,8 @@ gumgum.com, 16022, RESELLER, ffdef49475d318a9
 
 # Taboola
 google.com, pub-3677668629134422, RESELLER, f08c47fec0942fa0
+freewheel.tv, 536174-r-524565, RESELLER
+freewheel.tv, 536174-r-523319, RESELLER
 themediagrid.com, I2G5ZV, RESELLER, 35d5010d7789b49d
 pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
 appnexus.com, 3364, RESELLER, f5ab79cb980f11d1
@@ -1608,6 +1610,8 @@ freewheel.tv, 1374626, RESELLER #Prebid Video
 freewheel.tv, 1574223, DIRECT
 freewheel.tv, 1374642, RESELLER
 freewheel.tv, 1574224, DIRECT
+freewheel.tv, 536118-r-524565, RESELLER
+freewheel.tv, 536118-r-523319, RESELLER
 
 
 # Criteo
