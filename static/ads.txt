@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on November 10th at 1:22am
+# Updated on November 11th at 1:20am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1798,6 +1798,8 @@ yahoo.com, 59260, RESELLER
 video.unrulymedia.com, 776418614052335749, RESELLER
 pmc.com, 1240739, DIRECT, 8dd52f825890bb44
 ottadvisors.com, 122034096467, RESELLER
+insticator.com,0ef2eb4c-75f2-4cdf-9185-b61dbd344670,RESELLER,b3511ffcafb23a32
+yieldmo.com, 3807624843667382630, RESELLER
 
 
 # Sky
