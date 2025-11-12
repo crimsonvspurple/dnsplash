@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on November 11th at 1:20am
+# Updated on November 12th at 1:19am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1713,6 +1713,8 @@ openx.com, 541031350, RESELLER, 6a698e2ec38604c6 #Prebid
 rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807 #Prebid
 video.unrulymedia.com, 5672421953199218469, RESELLER #Prebid
 zetaglobal.net, 891, RESELLER
+freewheel.tv, 536359-r-524565, RESELLER
+freewheel.tv, 536359-r-523319, RESELLER
 
 
 # Sonobi
