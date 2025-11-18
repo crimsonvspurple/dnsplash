@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on November 17th at 1:20am
+# Updated on November 18th at 1:19am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1390,6 +1390,8 @@ iqzone.com,IQ130,RESELLER
 imds.tv,82642,RESELLER,ae6c32151e71f19d
 advertising.com,82642,RESELLER
 connectad.io,525,RESELLER,85ac85a30c93b3e5
+pubmatic.com,167377,RESELLER,5d62403b186f2ace
+sharethrough.com,1692,RESELLER,d53b998a7bd4ecd2
 inventorypartnerdomain=tappx.com
 
 
