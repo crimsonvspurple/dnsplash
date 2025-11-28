@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on November 27th at 1:18am
+# Updated on November 28th at 1:18am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1512,7 +1512,7 @@ yahoo.com, 60170, DIRECT, e1a5b5b6e3255540
 
 
 # Opti Digital
-optidigital.com, p216, RESELLER #Prebid
+optidigital.com, p216, DIRECT #Prebid
 rubiconproject.com, 20336, RESELLER, 0bfd66d529a55807 #Prebid
 pubmatic.com, 158939, RESELLER, 5d62403b186f2ace #Prebid
 triplelift.com, 8183, RESELLER, 6c33edb13117fd86 #Prebid
