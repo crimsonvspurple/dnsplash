@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on December 16th at 1:25am
+# Updated on December 18th at 1:21am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1177,6 +1177,7 @@ admanmedia.com, 2222, RESELLER
 supply.colossusssp.com, 818, RESELLER, 6c5b49d96ec1b458
 addigi.media, 176543395, RESELLER
 adtarget.com.tr, 765564, RESELLER
+yahoo.com, 100026, reseller, e1a5b5b6e3255540
 
 
 # ShowHeroes
