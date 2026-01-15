@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on January 14th at 1:39am
+# Updated on January 15th at 1:27am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1773,6 +1773,15 @@ sonobi.com, 71b80deecc, RESELLER, d1a215d9eb5aee9e #EBDA
 
 # Smart
 smartadserver.com, 3786, RESELLER, 060d053dcf45cbf3 #EBDA
+sharethrough.com, 3786, DIRECT, d53b998a7bd4ecd2
+sharethrough.com, 3786, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 3786-OB, RESELLER, d53b998a7bd4ecd222
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
+video.unrulymedia.com, 266978658, RESELLER
 
 
 # Sharethrough
