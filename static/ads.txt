@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on January 15th at 1:27am
+# Updated on January 16th at 1:29am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -10,6 +10,10 @@ snack-media.com, SNM_4757, DIRECT
 snack-media.com, SNM_4761, DIRECT
 
 
+
+
+# adform
+adform.com, 3368, RESELLER, 9f5210a2f0999e32
 
 
 # Teal
