@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on January 19th at 1:41am
+# Updated on January 20th at 1:26am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1719,7 +1719,7 @@ yieldmo.com, 3482865003332051270, RESELLER
 video.unrulymedia.com, 639501697, RESELLER
 strongmetrics.io, 219562, RESELLER
 vistarsagency.com, cqqccatc23j9v5bv3fv0, RESELLER, 8db795910158017c
-screencore.io, 276, RESLLER
+screencore.io, 276, RESELLER
 eskimi.com, 2020000792, RESELLER
 advertising.com, 82643, RESELLER
 conversantmedia.com, 100292, RESELLER, 03113cd04947736d
@@ -1779,7 +1779,7 @@ sonobi.com, 71b80deecc, RESELLER, d1a215d9eb5aee9e #EBDA
 smartadserver.com, 3786, RESELLER, 060d053dcf45cbf3 #EBDA
 sharethrough.com, 3786, DIRECT, d53b998a7bd4ecd2
 sharethrough.com, 3786, RESELLER, d53b998a7bd4ecd2
-sharethrough.com, 3786-OB, RESELLER, d53b998a7bd4ecd222
+sharethrough.com, 3786-OB, RESELLER, d53b998a7bd4ecd2
 pubmatic.com, 156557, RESELLER
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
