@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on January 20th at 1:26am
+# Updated on January 21st at 1:39am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1816,6 +1816,15 @@ pubmatic.com, 158819, RESELLER, 5d62403b186f2ace #Prebid Video
 openx.com, 540310766, RESELLER, 6a698e2ec38604c6 #EBDA
 openx.com, 539874140, DIRECT, 6a698e2ec38604c6 #Prebid
 openx.com, 558767885, DIRECT, 6a698e2ec38604c6 #Video
+
+
+# OneTag
+onetag.com, 79e56da0ef03b0a, DIRECT
+onetag.com, 79e56da0ef03b0a-OB, DIRECT
+appnexus.com, 13099, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 586616193, RESELLER
 
 
 # Media.net
