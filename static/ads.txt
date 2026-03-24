@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on March 23rd at 2:02am
+# Updated on March 24th at 1:53am
 # ADS.TXT V2
 
 OWNERDOMAIN=dobbernomics.com
@@ -1553,7 +1553,7 @@ freewheel.tv, 536118-r-523319, RESELLER
 
 
 # Criteo
-themediagrid.com, 6BZKIE, DIRECT, 35d5010d7789b49d #Prebid
+themediagrid.com, 6BZKIE, DIRECT, 9fac4a4a87c2a44f #Prebid
 
 
 # Xandr
