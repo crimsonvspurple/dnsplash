@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on April 9th at 2:01am
+# Updated on April 10th at 2:22am
 # contact=advertsing@snack-media.com
 # ADS.TXT V2
 
@@ -45,7 +45,7 @@ teal.works, 0000026, DIRECT
 adyoulike.com, bdaeb9555246741d5e61ef369b736b77, RESELLER, 4ad745ead2958bf7
 amxrtb.com, 105199811, DIRECT
 criteo.com, B-078820, DIRECT, 9fac4a4a87c2a44f
-themediagrid.com, 9FRCA5, DIRECT, 35d5010d7789b49d
+themediagrid.com, 9FRCA5, RESELLER, 9fac4a4a87c2a44f
 smartadserver.com, 5385, RESELLER, 060d053dcf45cbf3
 insticator.com, 5c317862-a09c-4129-9969-c07d71fd0d86, DIRECT, b3511ffcafb23a32
 ogury.com, 5075e6b5-06ab-4c7e-894e-a2510be7f04e, DIRECT
