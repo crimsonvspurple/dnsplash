@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on April 17th at 2:24am
+# Updated on April 18th at 2:06am
 # contact=advertsing@snack-media.com
 # ADS.TXT V2
 
@@ -1625,6 +1625,10 @@ openx.com, 540274407, RESELLER, 6a698e2ec38604c6
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 video.unrulymedia.com, 266978658, RESELLER
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
 
 
 # Sharethrough
