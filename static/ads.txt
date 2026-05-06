@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on May 5th at 2:32am
+# Updated on May 6th at 2:36am
 # contact=advertsing@snack-media.com
 # ADS.TXT V2
 
@@ -1262,6 +1262,8 @@ admanmedia.com, 1061, DIRECT
 media.net, 8CU3BYI96, DIRECT
 aps.amazon.com, e5a6f2d1-7642-4cc5-a917-96dbe8c3ed8f, RESELLER
 smartadserver.com, 5847, RESELLER, 060d053dcf45cbf3
+sharethrough.com, 5847, RESELLER, d53b998a7bd4ecd2
+yahoo.com, 100055, RESELLER, e1a5b5b6e3255540
 
 
 # TappX
