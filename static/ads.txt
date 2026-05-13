@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on May 12th at 2:44am
+# Updated on May 13th at 2:50am
 # contact=advertsing@snack-media.com
 # ADS.TXT V2
 
@@ -1002,6 +1002,10 @@ improvedigital.com, 2106, RESELLER
 loopme.com, 11576, RESELLER
 tagoras.io, c0946b4ab2bfb962c2a6a4efd4bd4910, DIRECT
 appnexus.com, 15623, RESELLER, f5ab79cb980f11d1
+triplelift.com,14670,reseller
+sharethrough.com,4288,reseller
+adform.com,2926,reseller
+appnexus.com,3920,reseller
 
 
 # Sublime
