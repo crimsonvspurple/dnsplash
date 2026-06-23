@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on June 22nd at 3:57am
+# Updated on June 23rd at 2:55am
 # contact=advertsing@snack-media.com
 # ADS.TXT V2
 
@@ -1684,6 +1684,7 @@ pubmatic.com, 158819, RESELLER, 5d62403b186f2ace #Prebid Video
 openx.com, 540310766, RESELLER, 6a698e2ec38604c6 #EBDA
 openx.com, 539874140, DIRECT, 6a698e2ec38604c6 #Prebid
 openx.com, 558767885, DIRECT, 6a698e2ec38604c6 #Video
+openx.com, 566395778, DIRECT, 6a698e2ec38604c6
 
 
 # OneTag
