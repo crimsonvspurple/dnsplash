@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on June 25th at 2:55am
+# Updated on June 27th at 2:53am
 # contact=advertsing@snack-media.com
 # ADS.TXT V2
 
@@ -848,30 +848,34 @@ themediagrid.com, 3E8XIQ, RESELLER, 35d5010d7789b49d
 
 
 # Pubventures
-pubventuresmedia.com, 7415263, DIRECT
-appnexus.com, 1922, RESELLER, f5ab79cb980f11d1
-bidgx.com, 58898, DIRECT
-risecodes.com, 64c290167304e80001e3edd3, RESELLER
-rubiconproject.com, 27034, RESELLER, 0bfd66d529a55807
-themediagrid.com, FNG4LA, RESELLER, 35d5010d7789b49d
-kntxy.com, 68348, RESELLER
-pubmatic.com, 166733, RESELLER, 5d62403b186f2ace
-triplelift.com, 14737, RESELLER, 6c33edb13117fd86
-vidazoo.com, 694a91fa7e731247b1057044, DIRECT, b6ada874b4d7d0b2
-xandr.com, 17781, RESELLER
-lijit.com, 465767, RESELLER, fafdf38b16bf6b2b
-minutemedia.com, 01jvq6exmmgq, DIRECT
-google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
-amxrtb.com, 105199746, RESELLER
+pubventuresmedia.com, 7493271, DIRECT		
+appnexus.com, 1922, RESELLER, f5ab79cb980f11d1		
+rubiconproject.com, 27034, RESELLER, 0bfd66d529a55807		
+triplelift.com, 14737, RESELLER, 6c33edb13117fd86		
+themediagrid.com, FNG4LA, RESELLER, 35d5010d7789b49d		
+risecodes.com, 64c290167304e80001e3edd3, RESELLER		
+bidgx.com, 58898, DIRECT		
+pubmatic.com, 166733, RESELLER, 5d62403b186f2ace	
+infolinks.com, 3389882, DIRECT	
+kntxy.com, 68348, RESELLER		
+xandr.com, 17781, RESELLER		
+lijit.com, 465767, RESELLER, fafdf38b16bf6b2b		
+kueez.com, fd1dd8c78669f46829a6e61e49c86fb5, RESELLER		
+risecodes.com,690873a570baf10001b06207,DIRECT		
+vidazoo.com,698254399fed1541c0fbedc5,DIRECT,b6ada874b4d7d0b2		
+omni-dex.io, 100072, DIRECT		
+rubiconproject.com, 21274, RESELLER, 0bfd66d529a55807		
+pubmatic.com, 165321, RESELLER, 5d62403b186f2ace		
+XANDR.COM, 11201, RESELLER		
+adagio.io, 1578, RESELLER		
+risecodes.com, 636cc1381c35e10001b200c7, RESELLER		
+video.unrulymedia.com, 460076256, RESELLER		
 vdo.ai, 3950, DIRECT
-onetag.com, 81a72670243c4b1, RESELLER
-adyoulike.com, 0993d3fa8116265a85dd6a6fd1d3fa75, RESELLER
-risecodes.com, 690873a570baf10001b06207, DIRECT
-adagio.io, 1578, DIRECT
-aps.amazon.com, b3d50ad3-eca1-4091-be72-de4a8bc67a3d, RESELLER
+atlas5.co, 3950, DIRECT
+google.com, pub-7094677798399606, RESELLER, f08c47fec0942fa0
 google.com, pub-2403018226404213, RESELLER, f08c47fec0942fa0
-atlas5.co, 3950, RESELLER
-vidazoo.com, 698254399fed1541c0fbedc5, DIRECT, b6ada874b4d7d0b2
+rtbdemand.com, 23110629672, DIRECT
+google.com, pub-3872674820285626, RESELLER, f08c47fec0942fa0	
 
 
 # Conversant
@@ -1543,14 +1547,14 @@ gumgum.com, 13135, DIRECT, ffdef49475d318a9
 gumgum.com, 13135, RESELLER, ffdef49475d318a9
 rubiconproject.com, 23434, RESELLER, 0bfd66d529a55807
 pubmatic.com, 157897, RESELLER, 5d62403b186f2ace
-appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
 contextweb.com, 558355, RESELLER, 89ff185a4c4e857c
 openx.com, 537149485, RESELLER, 6a698e2ec38604c6
 improvedigital.com, 1884, RESELLER
 smartadserver.com, 4005, RESELLER, 060d053dcf45cbf3
-admedia.com, AM1606, RESELLER
-admanmedia.com, 799, RESELLER
+sharethrough.com.com, 4005, RESELLER, d53b998a7bd4ecd2
 conversantmedia.com, 100978, RESELLER, 03113cd04947736d
+loopme.com, 21043, RESELLER, 6c8d5f95897a5a3b
+onetag.com, 97025f6439c3104, RESELLER
 
 
 # FreeWheel
