@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on July 1st at 3:33am
+# Updated on July 2nd at 2:57am
 # contact=advertsing@snack-media.com
 # ADS.TXT V2
 
@@ -1239,6 +1239,10 @@ inmobi.com, a985e39014a94721a8e97c929d32ef9d, RESELLER, 83e75a7ae333ca9d
 themediagrid.com, I2G5ZV, RESELLER, 35d5010d7789b49d
 copper6.com, 764120, RESELLER
 aps.amazon.com, ec4e8edf-c46b-44a1-bcab-17b3a4420b9a, RESELLER
+seedtag.com, 69d68d4be8be020007d0b62c, RESELLER
+sharethrough.com, 3563, RESELLER, d53b998a7bd4ecd2
+insticator.com, 23674d5f-87ef-4a55-bc90-324263d3e005, RESELLER, b3511ffcafb23a32
+ssp.cadent.com, 1643, RESELLER, 1e1d41537f7cad7f
 
 
 # Exit Bee
