@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on August 24th at 1:05am
+# Updated on August 25th at 1:04am
 # contact=advertising@snack-media.com
 # ADS.TXT V2
 
@@ -218,7 +218,6 @@ themediagrid.com, A8X5S7, RESELLER, 35d5010d7789b49d
 triplelift.com, 12456, RESELLER, 6c33edb13117fd86
 trustedstack.com, TS5UCV3O4, RESELLER
 conversantmedia.com, 100308, RESELLER, 03113cd04947736d
-lijit.com, 417620, RESELLER, fafdf38b16bf6b2b
 insticator.com,7184c7ca-645a-4e0f-a78c-6d5822b3449f,RESELLER,b3511ffcafb23a32
 
 
@@ -254,6 +253,7 @@ lijit.com, 447882, RESELLER, fafdf38b16bf6b2b
 improvedigital.com, 2154, RESELLER
 media.net, 8CUJ8C82U, RESELLER
 themediagrid.com, NEJFKT, RESELLER, 9fac4a4a87c2a44f
+sharethrough.com, 3389, RESELLER, d53b998a7bd4ecd2
 
 
 # Missena
