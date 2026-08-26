@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on August 25th at 1:04am
+# Updated on August 26th at 1:06am
 # contact=advertising@snack-media.com
 # ADS.TXT V2
 
@@ -37,6 +37,33 @@ sharethrough.com, 4937, RESELLER, d53b998a7bd4ecd2
 connectad.io, 586, RESELLER, 85ac85a30c93b3e5
 adform.com, 768, RESELLER, 9f5210a2f0999e32
 rubiconproject.com, 26800, RESELLER, 0bfd66d529a55807
+
+
+# Adipolo
+adipolo.com, 6428571, DIRECT
+adipolosolutions.com, 6428571, DIRECT
+omgstudios.com, 6428571, DIRECT
+pmbmonetize.com, 6428571, DIRECT
+opamarketplace.com, 6428571, DIRECT
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
+google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0
+google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0
+google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0
+google.com, pub-9966039342650298, RESELLER, f08c47fec0942fa0
+google.com, pub-9857612698505806, RESELLER, f08c47fec0942fa0
+appnexus.com,16912,RESELLER, f5ab79cb980f11d1
+copper6.com, 23033711203, RESELLER
+inmobi.com, dfe9a1f0c51b4d46a61d676e9f3a9d69, RESELLER, 83e75a7ae333ca9d
+appnexus.com, 8420, RESELLER, f5ab79cb980f11d1
+nobid.io, 22853635813, DIRECT
+smilewanted.com, 5616, RESELLER
+google.com, pub-6804276076764268, RESELLER, f08c47fec0942fa0
+smartadline.com, 22703897216, RESELLER
+adipolo.com, 22703897216, RESELLER
+adipolosolutions.com, 22652786701, RESELLER
+pmbmonetize.com, 22703897216, RESELLER
+opamarketplace.com, 22703897216, RESELLER
+gannett.com, 22675194701, DIRECT
 
 
 # adform
