@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on September 15th at 3:18am
+# Updated on September 16th at 3:14am
 # contact=advertising@snack-media.com
 # ADS.TXT V2
 
@@ -1346,6 +1346,7 @@ advertising.com,82642,RESELLER
 connectad.io,525,RESELLER,85ac85a30c93b3e5
 pubmatic.com,167377,RESELLER,5d62403b186f2ace
 sharethrough.com,1692,RESELLER,d53b998a7bd4ecd2
+minutemedia.com,01kref7st9nq, RESELLER
 inventorypartnerdomain=tappx.com
 
 
