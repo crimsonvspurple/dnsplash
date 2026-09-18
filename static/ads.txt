@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on September 17th at 3:20am
+# Updated on September 18th at 3:06am
 # contact=advertising@snack-media.com
 # ADS.TXT V2
 
@@ -1793,6 +1793,7 @@ openx.com, 562150856, DIRECT, 6a698e2ec38604c6
 seedtag.com, 5a0ad7f130e8d006001139db, DIRECT
 indexexchange.com, 213621, DIRECT, 50b1c356f2c5c8fc
 indexexchange.com, 213621, RESELLER, 50b1c356f2c5c8fc
+adyoulike.com, e6d35d1119c6d385144b58be50add572, DIRECT
 
 
 # Unruly
