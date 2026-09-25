@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on September 24th at 3:03am
+# Updated on September 25th at 3:20am
 # contact=advertising@snack-media.com
 # ADS.TXT V2
 
@@ -1537,6 +1537,7 @@ amxrtb.com, 105199546, DIRECT
 appnexus.com, 11786, RESELLER, f5ab79cb980f11d1
 amxrtb.com, 1330, DIRECT
 triplelift.com, 12507, RESELLER
+improvedigital.com, 2942, RESELLER
 
 
 # ADYOULIKE
