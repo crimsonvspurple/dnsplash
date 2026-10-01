@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on September 30th at 3:56am
+# Updated on October 1st at 4:02am
 # contact=advertising@snack-media.com
 # ADS.TXT V2
 
@@ -1405,7 +1405,7 @@ improvedigital.com, 1451, RESELLER #Prebid
 adform.com, 2657, DIRECT, 9f5210a2f0999e32 #Prebid
 pubmatic.com, 160557, DIRECT, 5d62403b186f2ace #Prebid
 smartadserver.com, 4011, DIRECT #Prebid
-sharethrough.com, aBqacEOY, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 4011, RESELLER, 060d053dcf45cbf3
 indexexchange.com, 206233, RESELLER, 50b1c356f2c5c8fc
 yieldmo.com, 3337992342509396649, RESELLER
 themediagrid.com, PEAKC5, DIRECT, 35d5010d7789b49d #ozone_DAN_private_connection
