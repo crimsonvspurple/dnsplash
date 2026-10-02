@@ -1,5 +1,5 @@
 # Site: dobbernomics.com
-# Updated on October 1st at 4:02am
+# Updated on October 2nd at 3:58am
 # contact=advertising@snack-media.com
 # ADS.TXT V2
 
@@ -1568,51 +1568,27 @@ conversantmedia.com, 100292, RESELLER, 03113cd04947736d
 
 
 # Adagio
-adagio.io, 1205, RESELLER #Prebid
-rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807 #Prebid
-pubmatic.com, 159110, RESELLER, 5d62403b186f2ace #Prebid
-improvedigital.com, 1790, RESELLER #Prebid
-onetag.com, 6b859b96c564fbe, RESELLER #Prebid
-appnexus.com, 13099, RESELLER, f5ab79cb980f11d1 #Prebid
-pubmatic.com, 161593, RESELLER, 5d62403b186f2ace #Prebid
-rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807 #Prebid
-33across.com, 0015a00002oUk4aAAC, RESELLER, bbea06d9c4d2853c #Prebid
-yahoo.com, 57289, RESELLER, e1a5b5b6e3255540 #Prebid
-rubiconproject.com, 16414, RESELLER, 0bfd66d529a55807 #Prebid
-rubiconproject.com, 21642, RESELLER, 0bfd66d529a55807 #Prebid
-conversantmedia.com, 100141, RESELLER #Prebid
-indexexchange.com, 191973, RESELLER, 50b1c356f2c5c8fc #Prebid
-triplelift.com, 12503, RESELLER, 6c33edb13117fd86 #Prebid
-smartadserver.com, 3554, RESELLER #Prebid
-pubmatic.com, 156439, RESELLER, 5d62403b186f2ace #Prebid
-pubmatic.com, 154037, RESELLER, 5d62403b186f2ace #Prebid
-rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807 #Prebid
-openx.com, 537149888, RESELLER, 6a698e2ec38604c6 #Prebid
-appnexus.com, 3703, RESELLER, f5ab79cb980f11d1 #Prebid
-loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b #Prebid
-video.unrulymedia.com, 2564526802, RESELLER #Prebid
-pubnative.net, 1006576, RESELLER, d641df8625486a7b #Prebid
-admanmedia.com, 43, RESELLER #Prebid
-sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2 #Prebid
-lijit.com, 367236, RESELLER, fafdf38b16bf6b2b #Prebid
-openx.com, 538959099, RESELLER, 6a698e2ec38604c6 #Prebid
-pubmatic.com, 137711, RESELLER, 5d62403b186f2ace #Prebid
-pubmatic.com, 156212, RESELLER, 5d62403b186f2ace #Prebid
-rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807 #Prebid
-freewheel.tv, 1568036, RESELLER #Prebid
-freewheel.tv, 1568041, RESELLER #Prebid
-openx.com, 558899373, RESELLER, 6a698e2ec38604c6 #Prebid
-triplelift.com, 13482, RESELLER, 6c33edb13117fd86 #Prebid
-e-planning.net, 83c06e81531537f4, RESELLER, c1ba615865ed87b2 #Prebid
-pubmatic.com, 156631, RESELLER, 5d62403b186f2ace #Prebid
-openx.com, 541031350, RESELLER, 6a698e2ec38604c6 #Prebid
-rubiconproject.com, 12186, RESELLER, 0bfd66d529a55807 #Prebid
-video.unrulymedia.com, 5672421953199218469, RESELLER #Prebid
-zetaglobal.net, 891, RESELLER
+adagio.io, 1205, RESELLER
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+onetag.com, 6b859b96c564fbe, RESELLER
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
+appnexus.com, 13099, RESELLER
+smartadserver.com, 3554, RESELLER
+sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
+lijit.com, 367236, RESELLER, fafdf38b16bf6b2b
+openx.com, 538959099, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
+openx.com, 558899373, RESELLER, 6a698e2ec38604c6
+video.unrulymedia.com, 5672421953199218469, RESELLER
+rtbhouse.com, XPSLDtnX92XNGGFB6ith, RESELLER, 4f3b94578e85950c
 freewheel.tv, 536359-r-524565, RESELLER
 freewheel.tv, 536359-r-523319, RESELLER
 adform.com, 3354, RESELLER, 9f5210a2f0999e32
-connectad.io, 456, RESELLER, 85ac85a30c93b3e5
+improvedigital.com, 1790, RESELLER
+triplelift.com, 13482, RESELLER, 6c33edb13117fd86
 
 
 # Sonobi
